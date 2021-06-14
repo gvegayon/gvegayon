@@ -9,16 +9,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="133.37674mm"
-   height="89.422852mm"
-   viewBox="0 0 133.37674 89.422852"
+   width="226.06889mm"
+   height="92.08712mm"
+   viewBox="0 0 226.06889 92.087121"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (1.0.2+r75+1)"
    sodipodi:docname="hexlogos.svg"
    inkscape:export-filename="/home/george/Documents/talks/faculty-talk/fig-packages/hexlogos.png"
-   inkscape:export-xdpi="195.00851"
-   inkscape:export-ydpi="195.00851">
+   inkscape:export-xdpi="116.42847"
+   inkscape:export-ydpi="116.42847">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -152,10 +152,10 @@
     </filter>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : -182.17692 : 1"
-       inkscape:vp_y="0 : 999.99997 : 0"
-       inkscape:vp_z="44.069576 : -182.17692 : 1"
-       inkscape:persp3d-origin="22.034788 : -190.64366 : 1"
+       inkscape:vp_x="0 : -179.51265 : 1"
+       inkscape:vp_y="0 : 999.99999 : 0"
+       inkscape:vp_z="44.069577 : -179.51265 : 1"
+       inkscape:persp3d-origin="22.034789 : -187.9794 : 1"
        id="perspective2601" />
     <linearGradient
        id="linearGradient2429"
@@ -534,60 +534,60 @@
        y2="119.3432"
        gradientUnits="userSpaceOnUse" />
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="marker4403"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#eaeaea;stroke-width:1pt;stroke-opacity:1;fill:#eaeaea;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:#eaeaea;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path4401" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="marker3759"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lend"
        inkscape:isstock="true"
        inkscape:collect="always">
       <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#eaeaea;stroke-width:1pt;stroke-opacity:1;fill:#eaeaea;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:#eaeaea;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path3757" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="marker3749"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#eaeaea;stroke-width:1pt;stroke-opacity:1;fill:#eaeaea;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:#eaeaea;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path3747" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="marker3727"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#eaeaea;stroke-width:1pt;stroke-opacity:1;fill:#eaeaea;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:#eaeaea;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path3725" />
     </marker>
     <linearGradient
@@ -4180,10 +4180,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient6050"
        id="linearGradient6052"
-       x1="89.368517"
-       y1="140.27288"
+       x1="89.368515"
+       y1="140.27287"
        x2="114.30759"
-       y2="140.27288"
+       y2="140.27287"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -4218,10 +4218,10 @@
        inkscape:menu="Textures"
        inkscape:menu-tooltip="Riddle the surface and add bump to images"
        height="1.3"
-       y="-0.15"
+       y="-0.15000001"
        width="1.3"
-       x="-0.15"
-       style="color-interpolation-filters:sRGB;"
+       x="-0.15000001"
+       style="color-interpolation-filters:sRGB"
        id="filter1576">
       <feGaussianBlur
          stdDeviation="0.050000000000000003 0.050000000000000003"
@@ -4256,11 +4256,13 @@
       <feComposite
          in2="result7"
          result="fbSourceGraphic"
-         k2="0.40104166666666607"
+         k2="0.40104167"
          in="result2"
-         k1="1.5910087719298254"
+         k1="1.5910088"
          operator="arithmetic"
-         id="feComposite1556" />
+         id="feComposite1556"
+         k3="0"
+         k4="0" />
       <feColorMatrix
          values="1 0 0 -1 0 1 0 1 -1 0 1 0 0 -1 0 -0.8 -1 0 3.7 -2.6 "
          in="fbSourceGraphic"
@@ -4272,10 +4274,10 @@
          result="result9"
          id="feGaussianBlur1560" />
       <feSpecularLighting
-         surfaceScale="-2.120442708333333"
-         specularExponent="2.0446239406779663"
+         surfaceScale="-2.12044263"
+         specularExponent="2.04462385"
          result="result11"
-         specularConstant="0.14221398305084745"
+         specularConstant="0.14221399"
          id="feSpecularLighting1564">
         <feDistantLight
            azimuth="40"
@@ -4284,10 +4286,10 @@
       </feSpecularLighting>
       <feDiffuseLighting
          in="result9"
-         lighting-color="rgb(255,255,255)"
+         lighting-color="#ffffff"
          result="result6"
-         diffuseConstant="0.4"
-         surfaceScale="2.1511787280701755"
+         diffuseConstant="0.40000001"
+         surfaceScale="2.15117884"
          id="feDiffuseLighting1568">
         <feDistantLight
            elevation="3"
@@ -4310,7 +4312,9 @@
          k2="1"
          operator="arithmetic"
          in2="fbSourceGraphic"
-         id="feComposite1574" />
+         id="feComposite1574"
+         k1="0"
+         k4="0" />
     </filter>
     <pattern
        id="c-6"
@@ -4657,8 +4661,8 @@
        style="color-interpolation-filters:sRGB"
        id="filter8371"
        x="-0.0040925774"
-       width="1.0081852"
-       y="-0.0032132565"
+       width="1.0081851"
+       y="-0.0032132566"
        height="1.0064265">
       <feGaussianBlur
          inkscape:collect="always"
@@ -37580,8 +37584,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="481.2255"
-     inkscape:cy="167.71774"
+     inkscape:cx="485.40393"
+     inkscape:cy="172.28571"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -37607,17 +37611,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-25.536829,-48.943257)">
-    <rect
-       style="display:none;fill:#eaeaea;stroke:#eaeaea;stroke-width:0.566737;stop-color:#000000"
-       id="rect4292"
-       width="225.50215"
-       height="91.520386"
-       x="24.714655"
-       y="48.018017"
-       inkscape:label="background"
-       inkscape:export-xdpi="195.00851"
-       inkscape:export-ydpi="195.00851" />
+     transform="translate(-24.431286,-47.734648)">
     <g
        inkscape:label="Layer 1"
        id="layer1-6"
