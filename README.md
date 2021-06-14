@@ -1,9 +1,9 @@
 <div align="center"><img src="hexlogos.png" width="90%"></div>
 
-<div align="center" style="max-width:400px">
+<div align="center" style="max-width:400px;font-weight:bold">
 <a href="https://github.com/gvegayon/rgexf">rgexf</a> |
 <a href="https://github.com/gvegayon/ABCoptim">ABCoptim</a> |
-<a href=" with R**](https://github.com/gvegayon/appliedsnar">Applied</a> |
+<a href="https://github.com/gvegayon/appliedsnar">Applied with R</a> |
 <a href="https://github.com/muriteams/ergmito">ergmito</a> |
 <a href="https://github.com/USCCANA/netdiffuseR">netdiffuseR</a> |
 <a href="https://github.com/gvegayon/parallel">parallel</a> |
