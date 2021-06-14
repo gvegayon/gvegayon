@@ -1,22 +1,22 @@
 <div align="center"><img src="hexlogos.png" width="90%"></div>
 
 <div align="center" style="max-width:400px">
-[**rgexf**](https://github.com/gvegayon/rgexf) |
-[**ABCoptim**](https://github.com/gvegayon/ABCoptim) |
-[**Applied SNA with R**](https://github.com/gvegayon/appliedsnar) |
-[**ergmito**](https://github.com/muriteams/ergmito) |
-[**netdiffuseR**](https://github.com/USCCANA/netdiffuseR) |
-[**parallel**](https://github.com/gvegayon/parallel) |
-[**fmcmc**](https://github.com/USCBiostats/fmcmc) |
-[**slurmR**](https://github.com/USCBiostats/slurmR) |
-[**aphylo**](https://github.com/USCBiostats/aphylo) |
-[**barry**](https://github.com/USCBiostats/barry) |
-[**geese**](https://github.com/USCBiostats/geese) |
-[**software-dev**](https://github.com/USCBiostats/software-dev)
+<a href="https://github.com/gvegayon/rgexf">rgexf</a> |
+<a href="https://github.com/gvegayon/ABCoptim">ABCoptim</a> |
+<a href=" with R**](https://github.com/gvegayon/appliedsnar">Applied</a> |
+<a href="https://github.com/muriteams/ergmito">ergmito</a> |
+<a href="https://github.com/USCCANA/netdiffuseR">netdiffuseR</a> |
+<a href="https://github.com/gvegayon/parallel">parallel</a> |
+<a href="https://github.com/USCBiostats/fmcmc">fmcmc</a> |
+<a href="https://github.com/USCBiostats/slurmR">slurmR</a> |
+<a href="https://github.com/USCBiostats/aphylo">aphylo</a> |
+<a href="https://github.com/USCBiostats/barry">barry</a> |
+<a href="https://github.com/USCBiostats/geese">geese</a> |
+<a href="https://github.com/USCBiostats/software-dev>USC Software Dev</a>
 </div>
-
+<br>
 <div style="text-align: right;position: absolute;bottom:7px;right:7px;filter:grayscale(1);">
-  resume <a href="https://github.com/gvegayon/resume/raw/master/resume.pdf" target="_blank"> here.</a> |
-  cv <a href="https://github.com/gvegayon/resume/raw/master/cv.pdf" target="_blank">here.</a> |
-  talks <a href="https://github.com/gvegayon/talks#list-of-talks-and-presentations-" target="_blank"> here.</a> |
+  latest resume <a href="https://github.com/gvegayon/resume/raw/master/resume.pdf" target="_blank"> here</a> |
+  cv <a href="https://github.com/gvegayon/resume/raw/master/cv.pdf" target="_blank">here</a> |
+  talks <a href="https://github.com/gvegayon/talks#list-of-talks-and-presentations-" target="_blank"> here</a> 
 </div>
