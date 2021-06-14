@@ -1,2 +1,1 @@
-<div align="center"><img source="hexlogos.png" width="90%"></div>
-
+<div align="center"><img src="hexlogos.png" width="90%"></div>
