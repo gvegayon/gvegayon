@@ -12,7 +12,7 @@
 <a href="https://github.com/USCBiostats/aphylo">aphylo</a> |
 <a href="https://github.com/USCBiostats/barry">barry</a> |
 <a href="https://github.com/USCBiostats/geese">geese</a> |
-<a href="https://github.com/USCBiostats/software-dev>USC Software Dev</a>
+<a href="https://github.com/USCBiostats/software-dev">USC Software Dev</a>
 </div>
 <br>
 <div style="text-align: right;position: absolute;bottom:7px;right:7px;filter:grayscale(1);">
