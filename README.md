@@ -13,6 +13,7 @@
 <a target="_blank" href="https://github.com/USCBiostats/barry">barry</a> |
 <a target="_blank" href="https://github.com/USCBiostats/geese">geese</a> |
 <a target="_blank" href="https://github.com/USCBiostats/software-dev">USC Software Dev</a>
+<a target="_blank" href="https://github.com/USCCANA/netplot">netplot</a>
 </div>
 <br>
 <div style="text-align: right;position: absolute;bottom:7px;right:7px;filter:grayscale(1);">
