@@ -1,5 +1,15 @@
 <div align="center"><img src="hexlogos.png" width="90%"></div>
-
+<p class="bio">
+      I am an Assistant Professor of Research at the  <a href="https://medicine.utah.edu/internalmedicine/epidemiology/" target="_blank">Division of Epidemiology at the University of Utah</a>. I work on studying <a href="https://cssociety.org/about-us/what-are-cs" target="_blank">Complex Systems</a> using
+        <a href="https://en.wikipedia.org/wiki/Computational_statistics" target="_blank">Statistical Computing</a>. I have over
+        ten years of experience developing scientific software focusing on high-performance
+        computing, data visualization, and social network analysis. My training is in Public
+        Policy (M.A. <a href="https://www.uai.cl/" target="_blank">UAI</a>, 2011), Economics (M.Sc. <a href="https://caltech.edu" target="_blank">Caltech</a>, 2015), and
+        Biostatistics (Ph.D. <a href="https://usc.edu" target="_blank">USC</a>, 2020).
+      </p>
+<p class="bio" style="text-shadow: 1px 1px 1px white;">
+        I'm available for coding, data science, network science, and data visualization consulting.
+      </p>
 <div align="center" style="max-width:400px;font-weight:bold">
   <strong>
     <h3>Networks</h3>
