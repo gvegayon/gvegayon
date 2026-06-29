@@ -1,6 +1,6 @@
 <div align="center"><img src="hexlogos.png" width="90%"></div>
 <p class="bio">
-      I am an Assistant Professor of Research at the  <a href="https://medicine.utah.edu/internalmedicine/epidemiology/" target="_blank">Division of Epidemiology at the University of Utah</a>. I work on studying <a href="https://cssociety.org/about-us/what-are-cs" target="_blank">Complex Systems</a> using
+      I am an Associate Professor of Research at the  <a href="https://medicine.utah.edu/internalmedicine/epidemiology/" target="_blank">Division of Epidemiology at the University of Utah</a>, as well as an Adjunct faculty member in Computer Science and Population Health Sciences. I work on studying <a href="https://cssociety.org/about-us/what-are-cs" target="_blank">Complex Systems</a> using
         <a href="https://en.wikipedia.org/wiki/Computational_statistics" target="_blank">Statistical Computing</a>. I have over
         ten years of experience developing scientific software focusing on high-performance
         computing, data visualization, and social network analysis. My training is in Public
